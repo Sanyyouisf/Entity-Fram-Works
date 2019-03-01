@@ -28,10 +28,8 @@ C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFram
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramWork.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramWork.pdb
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramework.dll
-C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramework.SqlServer.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramework.xml
-C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\EntityFramework.SqlServer.xml
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\obj\Debug\EntityFramWork.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\EntityFramWork\obj\Debug\EntityFramWork.pdb
