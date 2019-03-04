@@ -18,11 +18,14 @@
                 <asp:BoundField DataField="Location" HeaderText="Location" SortExpression="Location" />
                 <asp:TemplateField HeaderText="Employees">
                     <ItemTemplate>
-                        <asp:GridView ID="GridView3" runat="server" CellPadding="4" DataSource='<%# Eval("Employees") %>' ForeColor="#333333" GridLines="None">
+                        <asp:GridView ID="GridView3" runat="server" CellPadding="4" DataSource='<%# Eval("Employees") %>' ForeColor="#333333" GridLines="None" AutoGenerateColumns="False">
                             <AlternatingRowStyle BackColor="White" />
                             <Columns>
                                 <asp:BoundField DataField="FirstName" HeaderText="First Name" />
                                 <asp:BoundField DataField="LastName" HeaderText="Last Name" />
+                                <asp:BoundField DataField="Salary" HeaderText="Salary" />
+                                <asp:BoundField DataField="Gender" HeaderText="Gender" />
+                                <asp:BoundField DataField="JobTitle" HeaderText="Job Title" />
                             </Columns>
                             <EditRowStyle BackColor="#7C6F57" />
                             <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />

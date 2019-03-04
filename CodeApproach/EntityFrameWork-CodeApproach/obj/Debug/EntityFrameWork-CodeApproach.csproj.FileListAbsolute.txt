@@ -33,3 +33,4 @@ C:\Users\Developer\projects\Test\Entity Fram Works\CodeApproach\EntityFrameWork-
 C:\Users\Developer\projects\Test\Entity Fram Works\CodeApproach\EntityFrameWork-CodeApproach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Developer\projects\Test\Entity Fram Works\CodeApproach\EntityFrameWork-CodeApproach\obj\Debug\EntityFrameWork-CodeApproach.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\CodeApproach\EntityFrameWork-CodeApproach\obj\Debug\EntityFrameWork-CodeApproach.pdb
+C:\Users\Developer\projects\Test\Entity Fram Works\CodeApproach\EntityFrameWork-CodeApproach\obj\Debug\EntityFrameWork-CodeApproach.csprojResolveAssemblyReference.cache
