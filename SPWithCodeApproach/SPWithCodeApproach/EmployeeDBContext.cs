@@ -13,7 +13,7 @@ namespace SPWithCodeApproach
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             //to map this employee entity -that we pass it - to use the stored procedure
-            //modelBuilder.Entity<Employee>().MapToStoredProcedures();
+            modelBuilder.Entity<Employee>().MapToStoredProcedures();
             base.OnModelCreating(modelBuilder);
         }
     }

@@ -34,3 +34,5 @@ C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCode
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\obj\Debug\SPWithCodeApproach.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\obj\Debug\SPWithCodeApproach.pdb
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\obj\Debug\SPWithCodeApproach.csprojResolveAssemblyReference.cache
+C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.SqlServer.xml
