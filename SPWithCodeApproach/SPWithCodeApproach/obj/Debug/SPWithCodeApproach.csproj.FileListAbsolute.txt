@@ -28,10 +28,8 @@ C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCode
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\SPWithCodeApproach.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\SPWithCodeApproach.pdb
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.dll
-C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.SqlServer.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.xml
-C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\EntityFramework.SqlServer.xml
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\obj\Debug\SPWithCodeApproach.dll
 C:\Users\Developer\projects\Test\Entity Fram Works\SPWithCodeApproach\SPWithCodeApproach\obj\Debug\SPWithCodeApproach.pdb
