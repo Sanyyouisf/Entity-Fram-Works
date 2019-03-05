@@ -38,10 +38,11 @@ namespace SPWithCodeApproach
         }
 
         //delete
-        public void DeleteEmployee(int id)
+        public void DeleteEmployee(Employee employee)
         {
-            Employee empToDelete = employeeDBContext.Employees.Find(id);
+            Employee empToDelete = employeeDBContext.Employees.Find(employee.ID);
             employeeDBContext.Employees.Remove(empToDelete);
+            employeeDBContext.SaveChanges();
         }
     }
 }
